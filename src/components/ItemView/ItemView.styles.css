@@ -1,0 +1,14 @@
+.item-view {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+  border: 2px solid blue;
+  width: 100%;
+}
+.item-view img {
+  width: 70%;
+}
+.item-view button {
+  width: 30%;
+}
